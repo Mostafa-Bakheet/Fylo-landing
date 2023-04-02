@@ -1,0 +1,148 @@
+    * {
+        font-family: 'Cairo', sans-serif;
+    }
+    
+    .main_background {
+        color: hsl(218, 28%, 13%);
+    }
+    
+    .footer_background {
+        color: hsl(216, 53%, 9%);
+    }
+    
+    .testimonials_background {
+        color: hsl(219, 30%, 18%);
+    }
+    
+    .A {
+        color: hsl(176, 68%, 64%);
+    }
+    
+    .A1 {
+        color: hsl(198, 60%, 50%);
+    }
+    
+    .A2 {
+        color: hsl(0, 100%, 63%)
+    }
+    
+    .N {
+        color: hsl(0, 0%, 100%);
+    }
+    
+    header {
+        background-color: hsl(219, 30%, 18%);
+    }
+    
+    #navbarNav {
+        justify-content: end;
+    }
+    
+    #navbarNav ul li a {
+        color: hsl(0, 0%, 100%);
+    }
+    
+    .middleHeader {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .middleHeader img {
+        width: 50%;
+    }
+    
+    .middleHeader a {
+        text-decoration: none;
+        padding: 15px;
+        border-radius: 25px;
+        background-color: hsl(176, 68%, 64%);
+        color: hsl(0, 0%, 100%);
+        font-weight: 300;
+    }
+    
+    #features {
+        background-color: hsl(218, 28%, 13%);
+    }
+    
+    #features .card {
+        align-items: center;
+        text-align: center;
+        border: 0px;
+        background-color: transparent;
+    }
+    
+    #card-top {
+        padding-bottom: 8rem;
+        padding-top: 5rem;
+    }
+    
+    .middle-features a {
+        color: hsl(176, 68%, 64%);
+    }
+    
+    #Team .card {
+        text-align: left;
+        background-color: hsl(219, 30%, 18%);
+        padding: 5%;
+    }
+    
+    #Team .card img {
+        width: 20%;
+        border-radius: 30px;
+        margin-right: 1rem;
+    }
+    
+    #Team .card-footer {
+        display: flex;
+        border: 0px;
+    }
+    
+    #Team .card-footer h5 {
+        font-size: 15px;
+    }
+    
+    #Team .card-footer span {
+        font-size: 10px;
+    }
+    
+    #Team {
+        padding-bottom: 5rem;
+    }
+    
+    #footer-card {
+        background-color: hsl(219, 30%, 18%) !important;
+        max-width: 70%;
+        margin: auto;
+        padding: 40px;
+        margin-top: 6rem;
+        margin-bottom: -3rem;
+    }
+    
+    #footer-card input {
+        padding: 10px;
+        border-radius: 25px;
+    }
+    
+    #footer-card a {
+        background-color: hsl(176, 68%, 64%) !important;
+        padding: 10px;
+        border-radius: 25px;
+    }
+    
+    footer {
+        background-color: hsl(216, 53%, 9%) !important;
+        padding: 10px;
+    }
+    
+    footer a {
+        text-decoration: none;
+    }
+    
+    #social a i {
+        border: 1px solid white;
+        border-radius: 35px;
+        padding: 5px;
+    }
